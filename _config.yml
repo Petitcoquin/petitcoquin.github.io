@@ -12,7 +12,7 @@ github_repo: "https://github.com/Petitcouqin/petitcouqin.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Laziness leads to failure!"
-sidebar-avatar: img/mmexport1622104132003.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/mmexport1622104132003.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -60,8 +60,8 @@ gitalk:
   clientID: 6ae8e80a78b456546906                            #生成的clientID
   clientSecret: 11d15f8615d67eaefbd0bc95a38f0ef710f977ae    #生成的clientSecret
   repo: petitcoquin.github.io    #仓库名称
-  owner: petitcoquin    #github用户名
-  admin: petitcoquin
+  owner: Petitcoquin    #github用户名
+  admin: Petitcoquin
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
