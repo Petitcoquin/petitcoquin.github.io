@@ -12,7 +12,7 @@ github_repo: "https://github.com/Petitcouqin/petitcouqin.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Laziness leads to failure!"
-sidebar-avatar: /img/mmexport1622104132003.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/2a50747ea99fd535.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
